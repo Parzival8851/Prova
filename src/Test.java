@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Test {
+public class Test
+{
+    public Test() {
+        System.out.println("Ciao da Bonio!\n");
+
+
+    }
 }
